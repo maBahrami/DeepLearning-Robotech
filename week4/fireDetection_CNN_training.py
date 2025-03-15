@@ -11,8 +11,6 @@ from tensorflow.keras import models
 EPOCHS = 20
 batchSize = 16
 
-#Week5\reference\Datasets\fire_dataset
-#C:\Users\mabah\Desktop\ML_Robotech\Week5\reference\Datasets\fire_dataset
 
 def load_data():
 
